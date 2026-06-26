@@ -1,0 +1,9 @@
+# Local Python environment
+.venv/
+__pycache__/
+
+# Large local-only source dataset (do not push)
+dataset_EQ.mat
+
+# Optional additional local MATLAB artifacts
+*.asv
